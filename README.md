@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=2088FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hello+there!+I'm+Oscar+Palomino;Product-Minded+Full-Stack+Engineer;Expert+in+Web+Apps+%26+Distributed+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=2088FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hello+there!+I'm+Oscar+Palomino;Product-Minded+Full-Stack+Engineer" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -22,7 +22,7 @@
 <h3>🚀 About Me</h3>
 
 <p>
-[cite_start]I am a <strong>Product-minded Full-Stack Engineer</strong> with expertise in web application development and distributed systems[cite: 4]. I specialize in building functional back-ends and elegant front-ends that solve real business needs.
+I am a <strong>Product-minded Full-Stack Engineer</strong> with expertise in web application development and distributed systems[cite: 4]. I specialize in building functional back-ends and elegant front-ends that solve real business needs.
 </p>
 
 <ul>
