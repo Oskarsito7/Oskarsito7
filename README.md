@@ -22,7 +22,7 @@
 <h3>🚀 About Me</h3>
 
 <p>
-I am a <strong>Product-minded Full-Stack Engineer</strong> with expertise in web application development and distributed systems[cite: 4]. I specialize in building functional back-ends and elegant front-ends that solve real business needs.
+I am a <strong>Product-minded Full-Stack Engineer</strong> with expertise in web application development and distributed systems. I specialize in building functional back-ends and elegant front-ends that solve real business needs.
 </p>
 
 <ul>
